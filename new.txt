@@ -1,0 +1,6 @@
+1. first name -- Sviatlana,
+2. last name -- Maherava,
+3. age -- 41,
+4. pets -- 1,
+5. salary -- 2000
+
