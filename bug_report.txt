@@ -1,1 +1,5 @@
-
+bug summary -- "",
+severity -- "",
+steps to reproduce -- "",
+actual result -- "",
+expected result -- ""
